@@ -1,0 +1,25 @@
+header, nav, footer {
+    background: burlywood;
+    color: black;
+}
+
+span {
+    font-size: 40px;
+}
+
+a {
+    color: black;
+}
+
+main {
+    background: brown;
+    color: white;
+}
+
+small {
+    color: black;
+}
+
+img {
+    margin: 10px;
+}
